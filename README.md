@@ -1,0 +1,4 @@
+# Applied_Data_Science_Capston
+SpaceX promotes Falcon 9 rocket launches on its website, offering them at a rate of $62 million. In contrast, many other providers charge upwards of $165 million for each launch. A substantial portion of the cost savings achieved by SpaceX is attributed to their ability to recycle the first stage of the rocket. Consequently, the determination of whether the first stage can be successfully recovered plays a crucial role in estimating the overall launch cost. This information holds valuable significance, especially when considering competition from other companies bidding against SpaceX for rocket launch contracts. 
+
+Within this project, I have meticulously outlined the step-by-step process and concluded by employing various predictive models. Additionally, I have presented a comparative chart to illustrate the results effectively.
